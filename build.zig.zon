@@ -1,0 +1,13 @@
+.{
+    .name = "fft",
+    .version = "0.0.1",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+    },
+}
